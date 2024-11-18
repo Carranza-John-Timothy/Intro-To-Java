@@ -1,3 +1,4 @@
+package Artist;
 public class ArtistDemo {
     public static void main(String[] args) {
         // Instance of Artist class

@@ -1,3 +1,4 @@
+package Artist;
 public class Dancer extends Artist {
     public enum DanceStyle {
         BALLET, HIPHOP, JAZZ, CONTEMPORARY
