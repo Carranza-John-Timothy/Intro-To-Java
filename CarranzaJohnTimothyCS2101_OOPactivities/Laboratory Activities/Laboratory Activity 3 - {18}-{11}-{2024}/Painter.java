@@ -14,4 +14,4 @@ public class Painter extends Artist {
     public String displayInfo() {
         return super.displayInfo() + "\nMedium: " + medium;
     }
-}v
+}
