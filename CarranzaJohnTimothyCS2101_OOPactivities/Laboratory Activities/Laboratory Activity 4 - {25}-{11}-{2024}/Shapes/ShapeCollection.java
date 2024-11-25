@@ -8,6 +8,7 @@ public class ShapeCollection {
 
     public void getPropertyValues() {
         for (Shape shape : shapes) {
+            System.out.printf("%s%n", shape.printShapeType());
             System.out.printf("Area: %.2f%n", shape.getArea());
             System.out.printf("Perimeter: %.2f%n%n", shape.getPerimeter());
         }
